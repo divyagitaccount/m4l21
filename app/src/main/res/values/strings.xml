@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">m4l3</string>
+    <string name="which_is_your_favourite_ice_cream">which is your favourite ice cream?</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="checkbox1">CheckBox</string>
+    <string name="chocolate">chocolate</string>
+    <string name="vanilla">vanilla</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="choose_your_gender">choose your gender?</string>
+    <string name="show_gender">show gender</string>
+</resources>
